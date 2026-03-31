@@ -1,31 +1,11 @@
-owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
-SticsRPacks,.github,SticsRPacks/.github,0,3,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,2,33,3,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,NA,NA,NA
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,31,5,11,10,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,NA,NA,NA
-SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,9,3,24,6,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,8c0ef743a2ec1144888d459d802b43ce70ee42d4,"Merge pull request #68 from SticsRPacks/vrahier/fix-missing-successives-usms
+owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,commit_id,commit_message,badge
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,2,33,3,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,NA,NA
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,31,5,11,10,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,NA,NA
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,9,3,24,6,FALSE,https://github.com/SticsRPacks/SticsOnR,8c0ef743a2ec1144888d459d802b43ce70ee42d4,"Merge pull request #68 from SticsRPacks/vrahier/fix-missing-successives-usms
 
 fix(wrapper): Fix a bug when multiple successives USMs are missing",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/20299215416)
-SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,0,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
-SticsRPacks,SticsREval,SticsRPacks/SticsREval,0,0,0,0,FALSE,https://github.com/SticsRPacks/SticsREval,0,03b1dcffd50207fe3a946e8ffca6e6812af96aba,Fix notes,[![](https://github.com/SticsRPacks/SticsREval/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/SticsRPacks/SticsREval/actions/runs/22674082560)
-SticsRPacks,SticsREval,SticsRPacks/SticsREval,0,0,0,0,FALSE,https://github.com/SticsRPacks/SticsREval,0,c438a15bcc22dd59807394773bdbe3c4724c0c16,"Feat: add get_sim and get_obs to API (#15)
-
-Add get_sim, get_obs and get_stats accessor functions
-
-This PR adds three new functions to retrieve data from the evaluation repository:
-
-get_sim() returns simulated data, with optional filtering by species and USMs
-get_obs() returns observed data, with optional filtering by species and USMs
-get_stats() returns statistics for a given species
-
-get_stats() supports lazy evaluation via the collect argument, returning either an Arrow dataset or a data.frame.",[![](https://github.com/SticsRPacks/SticsREval/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsREval/actions/runs/23546849781) [![](https://github.com/SticsRPacks/SticsREval/workflows/Lint/badge.svg)](https://github.com/SticsRPacks/SticsREval/actions/runs/23546849809)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,5,2,64,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5b7e0b8863b71ee423ef6677023d962630d75f2b,fix: adding missing function,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/23289152997)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,19,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,c3de87a30a2cf190119e92e3f4bc7f58ce4248cb,Update integration-tests.yaml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/23797256223)
-SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,11,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,1af752364c34d90cd841a4aa87a004fc0d9bf9b1,"Update integration-tests.yaml
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,5,2,64,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,5b7e0b8863b71ee423ef6677023d962630d75f2b,fix: adding missing function,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/23289152997)
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,19,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,c3de87a30a2cf190119e92e3f4bc7f58ce4248cb,Update integration-tests.yaml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/23797256223)
+SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,11,1,FALSE,https://github.com/SticsRPacks/SticsRTests,1af752364c34d90cd841a4aa87a004fc0d9bf9b1,"Update integration-tests.yaml
 
 Force testthat 3.1.8 if not. Because I don't know why but pkgdepends does not use the ""@3.1.8""...",[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/23803963064)
-SticsRPacks,data,SticsRPacks/data,0,3,1,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
-SticsRPacks,documentation,SticsRPacks/documentation,1,3,1,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
-SticsRPacks,sandbox,SticsRPacks/sandbox,0,5,0,0,FALSE,https://github.com/SticsRPacks/sandbox,0,NA,NA,NA
-SticsRPacks,sticsrpacks.r-universe.dev,SticsRPacks/sticsrpacks.r-universe.dev,0,0,0,0,FALSE,https://github.com/SticsRPacks/sticsrpacks.r-universe.dev,0,NA,NA,NA
-SticsRPacks,tutorialPackage,SticsRPacks/tutorialPackage,0,3,2,0,FALSE,https://github.com/SticsRPacks/tutorialPackage,0,NA,NA,NA
