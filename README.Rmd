@@ -4,7 +4,7 @@ output: github_document
 params:
   set_main_width: false
 # provide user name to include all public, non-fork repos from the owner
-all_by_owner: SticsRPacks
+#all_by_owner: SticsRPacks
 # the repository where this repo exists
 status_repo: SticsRPacks/sticsrpacks-status
 # list of repositories by owner name and repo (appear before owner's repos)
