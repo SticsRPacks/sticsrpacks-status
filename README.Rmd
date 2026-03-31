@@ -4,22 +4,18 @@ output: github_document
 params:
   set_main_width: false
 # provide user name to include all public, non-fork repos from the owner
-all_by_owner: gadenbuie
+all_by_owner: SticsRPacks
 # the repository where this repo exists
-status_repo: gadenbuie/status
+status_repo: SticsRPacks/sticsrpacks-status
 # list of repositories by owner name and repo (appear before owner's repos)
 repos:
-  gadenbuie:
-  - xaringanthemer
-  - xaringanExtra
-  - starwarsdb
-  - metathis
-  - shrtcts
-  - js4shiny
-  rstudio-education:
-  - gradethis
-  rstudio:
-  - learnr
+  SticsRPacks:
+  - SticsRPacks
+  - SticsRFiles
+  - SticsOnR
+  - CroptimizR
+  - CroPlotR
+  - SticsRTests
 ---
 
 ![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg)  
