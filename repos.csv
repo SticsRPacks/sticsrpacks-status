@@ -1,7 +1,25 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,commit_id,commit_message,badge
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,2,33,3,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,NA,NA
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,31,5,12,10,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,9,3,27,6,FALSE,https://github.com/SticsRPacks/SticsOnR,658edf3a1e162103a838784f0127a03b396c0873,feat: added a function for getting the version of a stics executable either for a release or for a development version getting the commit hash,[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/23809736789)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,5,2,64,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,5b7e0b8863b71ee423ef6677023d962630d75f2b,fix: adding missing function,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/23289152997)
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,2,32,3,FALSE,https://github.com/SticsRPacks/CroPlotR,ba93557c6a9de1b4c4f1e04b608c65af8d1491a6,"Merge pull request #160 from SticsRPacks/use-reusable-workflow-for-sticsrtests
+
+use reusable workflow for sticsrtests",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/23946007603) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/23946007612) [![](https://github.com/SticsRPacks/CroPlotR/workflows/Snapshot%20Comparison/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/23946007641)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,31,5,11,10,FALSE,https://github.com/SticsRPacks/CroptimizR,3a10fb358d72af6ce3af9eeb79f6814e8b11813b,"Merge pull request #102 from SticsRPacks/use-reusable-workflow-for-sticsrtests
+
+Use reusable workflow for sticsrtests",[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/23946020094) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/23946020108)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,9,3,21,6,FALSE,https://github.com/SticsRPacks/SticsOnR,80e1fa6363af191a913960d102c0361c6a535f7e,"Removed useless deprecated functions' arguments (#86)
+
+* removed useless deprecated arguments
+
+* Update CITATION.cff
+
+---------
+
+Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/23940868411)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,9,3,21,6,FALSE,https://github.com/SticsRPacks/SticsOnR,bfc45b0c0823244422ed29b3da38f0dc9cf15d8f,"Merge pull request #80 from SticsRPacks/fix-double-trigger-of-CI-on-PR
+
+Fix running twice the CI on PR + remove devel",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/23946032557) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/23946032592)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,5,2,62,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,5b7e0b8863b71ee423ef6677023d962630d75f2b,fix: adding missing function,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/23289152997)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,5,2,62,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,f9738bb960e1684d280c5c3aff845c49317738f2,"Merge pull request #269 from SticsRPacks/use-reusable-workflow-for-sticsrtests
+
+Make integration tests visible from PR + use only @release integration on main",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/23946062420) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/23946062384)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,19,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,c3de87a30a2cf190119e92e3f4bc7f58ce4248cb,Update integration-tests.yaml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/23797256223)
-SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,12,1,FALSE,https://github.com/SticsRPacks/SticsRTests,76e21d9c2b875953611b46888bd4d3ad5834fbb0,Add v10.5.0,[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/23896644011)
+SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,12,1,FALSE,https://github.com/SticsRPacks/SticsRTests,438de376b9a646c0b1376aae02ced0ed703db0fc,Update R-CMD-check.yaml,[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/23901505790)
