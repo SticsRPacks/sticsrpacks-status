@@ -15,7 +15,7 @@ repos:
   - SticsOnR
   - CroptimizR
   - CroPlotR
-  - SticsRTests
+ # - SticsRTests
 ---
 
 ![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg)  
