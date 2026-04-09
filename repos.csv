@@ -22,4 +22,3 @@ SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,5,2,62,3,FALSE,https://github.co
 
 Make integration tests visible from PR + use only @release integration on main",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/23946062420) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/23946062384)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,19,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,c3de87a30a2cf190119e92e3f4bc7f58ce4248cb,Update integration-tests.yaml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/23797256223)
-SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,10,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA
